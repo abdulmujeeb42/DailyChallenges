@@ -1,30 +1,18 @@
-The program must com e coordinatesix) of N points on a graph as the input The program mut print the number of points present inside the given rectangle as the output. The coordinates of the top-left and the bottom-right corner of the rectangle are
+The program must accept the coordinates(x,y) of N points on a graph as the input The program must print the number of points present inside the given rectangle as the output. The coordinates of the top-left and the bottom-right corner of the rectangle are passed as the input
 
-ed as the input
 
-Boundary Condition(o) 2 N 100 -10 <-xy <= 10
-
-Input Format
-
-The first line contains N
-
-The next Nines each contains two integers separated by a space The (N+2 ine contains four integers representing the coordinates of the toplant and the bottom-right corner of the rectangle
-
-Output Format
-
-The first line contains an integer representing the number of points present inside the g rectangle
-
-Escample Input/Output 1
+Example Input/Output 1
 
 Input
+5
 
-22
-
-41 13
-
-43 72
-
-2461
+2 2
+4 1 
+1 3
+4 3 
+7 2
+	
+2 4 6 1
 
 Output
 
@@ -32,11 +20,12 @@ Output
 
 Explanation
 
-The coordinates of the top comer24
+The coordinates of the top corner=(2,4)
 
-The coordinates of the bottom-right col = 6.1) There are 3 points pressure inside the rectang which are green belo
-
-
+The coordinates of the bottom-right corner =(6,1) 
+	
+There are 3 points pressure inside the rectang which are green below
+(2,2), (4,1) and (4,3)
 
 
 
