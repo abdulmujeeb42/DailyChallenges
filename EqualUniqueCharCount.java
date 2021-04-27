@@ -1,8 +1,8 @@
 Split String - Equal Unique Count
 
-Solved By 30 Users
 
-The program must accept a string S as the input. The program must print the number of ways to split the string S into two parts so that the number of unique characters in both parts are equal
+The program must accept a string S as the input. The program must print the number of ways to split the string S into two parts. 
+so that the number of unique characters in both parts are equal
 
 Example Input/Output 1:
 
@@ -38,7 +38,7 @@ Hence the output is 2.
 
 
 
-
+                                            *******************************************
 import java.util.*;
 public class Hello {
     static int UniqueCharCount(String s)
