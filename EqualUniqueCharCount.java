@@ -1,6 +1,40 @@
+Split String - Equal Unique Count
 
+Solved By 30 Users
 
+The program must accept a string S as the input. The program must print the number of ways to split the string S into two parts so that the number of unique characters in both parts are equal
 
+Example Input/Output 1:
+
+Input:
+
+acaddabac
+
+Output:
+
+2
+
+Explanation:
+
+All possible ways to split the string acaddabac are given below.
+
+a caddabac
+
+ac addabac
+
+aca ddabac
+
+acad dabac
+
+acadd abac-> Same number of unique characters
+
+acadda bac-> Same number of unique characters
+
+acaddab ac
+
+acaddaba c
+
+Hence the output is 2.
 
 
 
